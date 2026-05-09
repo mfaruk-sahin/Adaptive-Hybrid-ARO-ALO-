@@ -1,7 +1,7 @@
 # Hybrid ARO-ALO: Adaptive Metaheuristic Optimization for Histopathological Image Segmentation
 
 ## Overview
-This repository contains the official Python source code and implementation details for the paper **Adaptive Hybrid ARO-ALO for Multi-Level Thresholding of Histopathological Colon Cancer Images**, peer review **The Visual Computer** (Springer). 
+This repository contains the official Python source code and implementation details for the paper **Adaptive Hybrid ARO-ALO for Multi-Level Thresholding of Histopathological Colon Cancer Images**, peer review in **The Visual Computer** (Springer). 
 
 ## Datasets
 - Item Borkowski AA, Bui MM, Thomas LB, et al. Lung and Colon Cancer Histopathological Image Dataset (LC25000) 2019. https://doi.org/10.48550/ARXIV.1912.12142.
