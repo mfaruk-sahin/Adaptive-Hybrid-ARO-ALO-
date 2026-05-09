@@ -18,5 +18,6 @@ The optimization pipeline consists of two dynamic phases governed by an adaptive
 2. **Phase 2: Exploitation via ALO:** The remaining iterations are handed over to the Ant Lion Optimization model. ALO uses the best global solution found by ARO as its initial position and performs fine-grained exploitation to pinpoint the exact threshold boundaries.
 
 **Objective Function:** The algorithm maximizes Otsu's Between-Class Variance to isolate cellular intensity clusters.
+
 **Evaluation Metrics:** The script automatically calculates Peak Signal-to-Noise Ratio (PSNR), Structural Similarity Index (SSIM), Feature Similarity Index (FSIM), alongside Pearson and Spearman spatial correlation coefficients.
 
